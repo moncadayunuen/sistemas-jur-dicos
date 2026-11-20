@@ -1,0 +1,334 @@
+[
+  {
+    "id": "controles-edad-plataformas",
+    "image": "assets/noticias/controles-edad-plataformas.jpg",
+    "description": "Uso de una plataforma digital",
+    "credit": "Unsplash · Fotografía de contexto",
+    "source": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=85",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "multa-ofcom-controles-edad",
+    "image": "assets/noticias/multa-ofcom-controles-edad.jpg",
+    "description": "Documentación y trabajo de oficina",
+    "credit": "Unsplash · Fotografía de contexto",
+    "source": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=85",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "controles-x-irlanda",
+    "image": "assets/noticias/controles-x-irlanda.jpg",
+    "description": "Teléfono móvil, fotografía de contexto",
+    "credit": "Unsplash · Fotografía de contexto",
+    "source": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=85",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "investigacion-x-irlanda",
+    "image": "assets/noticias/investigacion-x-irlanda.jpg",
+    "description": "Equipos e infraestructura tecnológica",
+    "credit": "Unsplash · Fotografía de contexto",
+    "source": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1200&q=85",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "delitos-odio-antimusulman",
+    "image": "assets/noticias/delitos-odio-antimusulman.jpg",
+    "description": "Vista urbana de Londres",
+    "credit": "Unsplash · Fotografía de contexto",
+    "source": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=1200&q=85",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "condena-mezquita-portsmouth",
+    "image": "assets/noticias/condena-mezquita-portsmouth.jpg",
+    "description": "Fachada de Portsmouth Jami Mosque, fotografía de archivo de 2019",
+    "credit": "Hassocks5489 · Wikimedia Commons · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portsmouth_Jami_Mosque,_Victoria_Road_North,_Southsea_(NHLE_Code_1386875)_(March_2019)_(2).JPG",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "estadisticas-odio-irlanda",
+    "image": "assets/noticias/estadisticas-odio-irlanda.jpg",
+    "description": "Consulta de datos en una computadora",
+    "credit": "Unsplash · Fotografía de contexto",
+    "source": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=85",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "condena-odio-refugiados",
+    "image": "assets/noticias/four-courts-dublin.jpg",
+    "description": "Four Courts de Dublín, fotografía de contexto judicial; no es una imagen del juicio",
+    "credit": "Pastor Sam / Wikimedia Commons · CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Four_Courts,_DUBLIN_-_panoramio.jpg",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "escuela-michaela-oracion",
+    "image": "assets/noticias/escuela-aula.jpg",
+    "description": "Aula escolar, fotografía de contexto educativo",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1580582932707-520aed937b7b",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "jr87-educacion-religiosa",
+    "image": "assets/noticias/educacion-clase.jpg",
+    "description": "Clase escolar, fotografía de contexto educativo",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1509062522246-3755977927d7",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "consulta-educacion-religiosa-ni",
+    "image": "assets/noticias/escuela-aula.jpg",
+    "description": "Aula escolar, fotografía de contexto educativo",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1580582932707-520aed937b7b",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "revision-penas-gauke",
+    "image": "assets/noticias/prision-reforma-uk.jpg",
+    "description": "Imagen publicada por el Ministerio de Justicia sobre la reforma de penas",
+    "credit": "Ministry of Justice / GOV.UK",
+    "source": "https://www.gov.uk/government/news/landmark-sentencing-reforms-to-ensure-prisons-never-run-out-of-space-again",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "revision-capacidad-prisiones",
+    "image": "assets/noticias/prision-reforma-uk.jpg",
+    "description": "Imagen publicada por el Ministerio de Justicia sobre la reforma de penas",
+    "credit": "Ministry of Justice / GOV.UK",
+    "source": "https://www.gov.uk/government/news/landmark-sentencing-reforms-to-ensure-prisons-never-run-out-of-space-again",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "hacinamiento-prisiones-irlanda",
+    "image": "assets/noticias/prision-kilmainham.jpg",
+    "description": "Interior de Kilmainham Gaol, antigua prisión hoy museo; archivo de 2009",
+    "credit": "Nol Aders / Wikimedia Commons · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dublin-Kilmainham-Jail-Hall-1.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "renters-rights-ley",
+    "image": "assets/noticias/vivienda-contexto.jpg",
+    "description": "Edificios residenciales, fotografía de contexto del mercado de vivienda",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1460317442991-0ec209397118",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "reforma-alquiler-irlanda-anuncio",
+    "image": "assets/noticias/vivienda-contexto.jpg",
+    "description": "Edificios residenciales, fotografía de contexto del mercado de vivienda",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1460317442991-0ec209397118",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "rpz-toda-irlanda",
+    "image": "assets/noticias/vivienda-contexto.jpg",
+    "description": "Edificios residenciales, fotografía de contexto del mercado de vivienda",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1460317442991-0ec209397118",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "finch-emisiones-petroleo",
+    "image": "assets/noticias/industria-energia.jpg",
+    "description": "Instalación industrial, fotografía de contexto energético",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1516937941344-00b4e0337589",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "whitehaven-mina-carbon",
+    "image": "assets/noticias/industria-energia.jpg",
+    "description": "Instalación industrial, fotografía de contexto energético",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1516937941344-00b4e0337589",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "plan-climatico-irlanda-2025",
+    "image": "assets/noticias/ambiente-contexto.jpg",
+    "description": "Bosque, fotografía de contexto",
+    "credit": "Unsplash · Fotografía de contexto",
+    "source": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=85",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "ofcom-avs-multa",
+    "image": "assets/noticias/multa-ofcom-controles-edad.jpg",
+    "description": "Documentación y trabajo de oficina",
+    "credit": "Unsplash · Fotografía de contexto",
+    "source": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=85",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "x-recurso-codigo-irlanda",
+    "image": "assets/noticias/four-courts-dublin.jpg",
+    "description": "Four Courts de Dublín, fotografía de contexto judicial; no es una imagen del juicio",
+    "credit": "Pastor Sam / Wikimedia Commons · CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Four_Courts,_DUBLIN_-_panoramio.jpg",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "amenazas-mezquitas-manchester",
+    "image": "assets/noticias/condena-mezquita-portsmouth.jpg",
+    "description": "Fachada de Portsmouth Jami Mosque, fotografía de archivo de 2019",
+    "credit": "Hassocks5489 · Wikimedia Commons · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portsmouth_Jami_Mosque,_Victoria_Road_North,_Southsea_(NHLE_Code_1386875)_(March_2019)_(2).JPG",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "garda-odio-2024",
+    "image": "assets/noticias/estadisticas-odio-irlanda.jpg",
+    "description": "Consulta de datos en una computadora",
+    "credit": "Unsplash · Fotografía de contexto",
+    "source": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=85",
+    "license": "Consultar la publicación original",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "encuesta-escuelas-irlanda",
+    "image": "assets/noticias/educacion-clase.jpg",
+    "description": "Clase escolar, fotografía de contexto educativo",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1509062522246-3755977927d7",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "escuelas-diversidad-debate",
+    "image": "assets/noticias/escuela-aula.jpg",
+    "description": "Aula escolar, fotografía de contexto educativo",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1580582932707-520aed937b7b",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "retirada-religion-escuelas",
+    "image": "assets/noticias/educacion-clase.jpg",
+    "description": "Clase escolar, fotografía de contexto educativo",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1509062522246-3755977927d7",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "sentencing-act-2026",
+    "image": "assets/noticias/justicia-reino-unido.jpg",
+    "description": "Ministerio de Justicia del Reino Unido, fotografía de archivo",
+    "credit": "Ministry of Justice / GOV.UK",
+    "source": "https://www.gov.uk/government/news/sentencing-act-ensuring-punishment-cuts-crime-gets-royal-assent",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "cpt-prisiones-irlanda",
+    "image": "assets/noticias/prision-kilmainham.jpg",
+    "description": "Interior de Kilmainham Gaol, antigua prisión hoy museo; archivo de 2009",
+    "credit": "Nol Aders / Wikimedia Commons · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dublin-Kilmainham-Jail-Hall-1.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "inspector-prisiones-2026",
+    "image": "assets/noticias/prision-kilmainham.jpg",
+    "description": "Interior de Kilmainham Gaol, antigua prisión hoy museo; archivo de 2009",
+    "credit": "Nol Aders / Wikimedia Commons · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dublin-Kilmainham-Jail-Hall-1.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "alquiler-roadmap-inglaterra",
+    "image": "assets/noticias/vivienda-contexto.jpg",
+    "description": "Edificios residenciales, fotografía de contexto del mercado de vivienda",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1460317442991-0ec209397118",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "alquiler-inglaterra-entrada-vigor",
+    "image": "assets/noticias/vivienda-contexto.jpg",
+    "description": "Edificios residenciales, fotografía de contexto del mercado de vivienda",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1460317442991-0ec209397118",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "alquiler-irlanda-ley-2026",
+    "image": "assets/noticias/vivienda-contexto.jpg",
+    "description": "Edificios residenciales, fotografía de contexto del mercado de vivienda",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1460317442991-0ec209397118",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "emisiones-petroleo-guia",
+    "image": "assets/noticias/industria-energia.jpg",
+    "description": "Instalación industrial, fotografía de contexto energético",
+    "credit": "Unsplash",
+    "source": "https://images.unsplash.com/photo-1516937941344-00b4e0337589",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "coolglass-high-court",
+    "image": "assets/noticias/energia-eolica.jpg",
+    "description": "Aerogeneradores, fotografía de contexto; no es el parque Coolglass",
+    "credit": "Idean Azad / Unsplash",
+    "source": "https://unsplash.com/photos/three-wind-turbines-in-a-green-field-with-a-blue-sky-in-the-background-b64oSuTPXy8",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "coolglass-supremo",
+    "image": "assets/noticias/energia-eolica.jpg",
+    "description": "Aerogeneradores, fotografía de contexto; no es el parque Coolglass",
+    "credit": "Idean Azad / Unsplash",
+    "source": "https://unsplash.com/photos/three-wind-turbines-in-a-green-field-with-a-blue-sky-in-the-background-b64oSuTPXy8",
+    "license": "https://unsplash.com/license",
+    "context": "Fotografía de contexto o archivo; no documenta necesariamente los hechos narrados."
+  },
+  {
+    "id": "cabecera-irlanda",
+    "image": "assets/noticias/irlanda-dublin.jpg",
+    "imageAlt": "Dublín y el río Liffey",
+    "photoCredit": "Unsplash",
+    "photoSource": "https://images.unsplash.com/photo-1683884492733-00474ae4aa59",
+    "photoLicense": "https://unsplash.com/license"
+  }
+]
